@@ -1,5 +1,7 @@
 # Kanban Board
 
+![kanban-board screenshot](screenshot.png)
+
 A drag-and-drop task board in **vanilla JavaScript** — no frameworks, no build step.
 
 - Three columns (To do / In progress / Done) with live counts
