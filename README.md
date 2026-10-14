@@ -1,5 +1,7 @@
 # Kanban Board
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![Built with](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
 ![kanban-board screenshot](screenshot.png)
 
 A drag-and-drop task board in **vanilla JavaScript** — no frameworks, no build step.
